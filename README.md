@@ -1,5 +1,6 @@
+# Welcome!
 - 👋 Hi, I’m @benguz52
-- 👀 I’m interested in computer science, sports, and music!
+- 👀 I’m interested in computer science, sports, and art!
 - 🌱 I’m currently studying computer science at George Mason University.
 - 📫 How to reach me: benguzman1006@gmail.com
 
